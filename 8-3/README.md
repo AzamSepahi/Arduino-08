@@ -19,7 +19,9 @@
 ### شماتیک مدار:
 ![](/media/shemakeypad.jpg)
 ---
-
+### عملکرد مدار:
+![](/media/kepadgif.gif)
+---
 
 ### کد برنامه :
 ```cpp
