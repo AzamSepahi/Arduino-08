@@ -20,7 +20,7 @@
 ![](/media/shemakeypad.jpg)
 ---
 ### عملکرد مدار:
-![](/media/kepadgif.gif)
+![](/media/keypadgif.gif)
 ---
 
 ### کد برنامه :
